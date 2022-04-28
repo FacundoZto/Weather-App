@@ -1,0 +1,16 @@
+.container {
+	/*display: flex;
+	justify-content: center;*/
+
+}
+
+.search {
+	display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+/*.search button {
+	margin-left: 10px;
+}*/
+
